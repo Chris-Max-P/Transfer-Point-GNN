@@ -1,0 +1,3 @@
+[submodule "Point-GNN"]
+	path = Point-GNN
+	url = https://github.com/WeijingShi/Point-GNN.git
