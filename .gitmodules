@@ -1,3 +1,6 @@
 [submodule "Point-GNN"]
 	path = Point-GNN
 	url = https://github.com/WeijingShi/Point-GNN.git
+[submodule "Point-GNN.pytorch"]
+	path = Point-GNN.pytorch
+	url = https://github.com/Shudeng/Point-GNN.pytorch
