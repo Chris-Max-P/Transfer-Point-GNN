@@ -1,0 +1,8 @@
+{
+    "eval_on": "/home/stud/paul/dataset/MUT/./3DOP_splits/posts_rot_1024_val.txt",
+    "lr0.25": {
+        "best_epoch": 447.0,
+        "best_model": 56769,
+        "highest_mAP": 0.32420113682746887
+    }
+}
